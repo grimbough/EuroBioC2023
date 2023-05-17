@@ -22,6 +22,8 @@ Mark Robinson | &nbsp; | Michael Stadler | &nbsp; | Robert Castelo | &nbsp; | Ro
 | ![](../img/organizers/Wolfgang_Huber.jpg) | &nbsp; | ![](../img/organizers/RuthSeurinck.png ) | &nbsp; | ![](../img/organizers/OlivierThas.png) | &nbsp; | ![](../img/organizers/TimDemeyer.png) |
 | Wolfgang Huber | &nbsp; |  Ruth Seurinck | &nbsp; | Olivier Thas | &nbsp; | Tim Demeyer |
 
+For inquiries related to the scientific program, conference registration & organisation, certificates of attendance, or anything else please contact us at eurobioc (at) embl.org. 
+
 <!--
 ## Co-chairs
 
